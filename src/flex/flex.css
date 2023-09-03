@@ -1,0 +1,67 @@
+
+.body{
+  /* display: flex; */
+}
+
+.ROW1 {
+  display: flex;
+
+}
+/* کد  تمیز تر  بشه   */
+.ROW1 .div1{
+ background-color: blue;
+ height: 100px;
+ flex: 5;
+ margin: 10px;
+}
+
+.ROW1 .div11{
+  background-color: red;
+  height: 100px;
+  flex: 1;
+  margin: 10px;
+}
+.ROW2{
+  display: flex;
+}
+
+.ROW2 .div1{
+  background-color: red;
+  height: 200px;
+  flex: 2;
+  margin: 10px;
+}
+
+.ROW2 .div2{
+  /* background-color: rgb(78, 8, 184); */
+  height: 200px;
+  flex: 1;
+  margin: 10px;
+}
+
+ .div21 {
+  background-color: rgb(169, 230, 15);
+  height: 95px;
+  flex: 1;
+  margin: 5px;
+}
+
+.ROW2 .div2 .div22 {
+  background-color: rgb(38, 44, 21);
+  height: 95px;
+  flex: 1;
+  margin: 5px;
+}
+
+.ROW2 .div3{
+  background-color: rgb(24, 173, 4);
+  height: 200px;
+  flex: 1;
+  margin: 10px;
+}
+
+
+
+
+
+
